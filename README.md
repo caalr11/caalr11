@@ -19,5 +19,5 @@ I am an analytical problem-solver, blending my academic background in Physics wi
 * 💻 **Passion & Skills:** I love programming and specialize in **Python** for data analysis, machine learning, and visualization.
 * 🌱 **Philosophy:** I am a dedicated lifelong learner, constantly exploring new tools and techniques to enhance my skill set.
 * 📫 **Let's Connect:** I'm always open to networking and discussing new opportunities.
-  * **LinkedIn:** [(https://www.linkedin.com/in/carlos-arias-lopez-reyes)](https://www.linkedin.com/in/carlos-arias-lopez-reyes)
+  * **LinkedIn:** [Carlos Adnrés Arias Lopez Reyes](https://www.linkedin.com/in/carlos-arias-lopez-reyes)
   * **Email:** [caalr1103@gmail.com](mailto:caalr1103@gmail.com)
