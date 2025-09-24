@@ -2,15 +2,12 @@
   src=<img width="3168" height="792" alt="LinkedIn Header" src="https://github.com/user-attachments/assets/76bcde34-133f-4998-8c04-ac4f0a6a538e"
 </p>
 
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
-<h3 align="center">Un Científico de Datos apasionado por transformar datos en insights.</h3>
+<h1 align="center">Hola 👋, soy Carlos Andrés Arias</h1>
+<h3 align="center">I am a data scientist passionate about uncovering the hidden value in data. My focus is on transforming complex datasets into actionable insights and communicating them effectively through visualization.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-arias-lopez-reyes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tu-portafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
