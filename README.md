@@ -21,3 +21,23 @@ I am an analytical problem-solver, blending my academic background in Physics wi
 * 📫 **Let's Connect:** I'm always open to networking and discussing new opportunities.
   * **LinkedIn:** [Carlos Adnrés Arias Lopez Reyes](https://www.linkedin.com/in/carlos-arias-lopez-reyes)
   * **Email:** [caalr1103@gmail.com](mailto:caalr1103@gmail.com)
+
+
+<h3 align="left">Lenguajes y Herramientas:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="seaborn"/>
+  </a>
+</p>
