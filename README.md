@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=<img width="3168" height="792" alt="LinkedIn Header" src="https://github.com/user-attachments/assets/76bcde34-133f-4998-8c04-ac4f0a6a538e" /> alt="Banner Personalizado"/>
+  src=<img width="3168" height="792" alt="LinkedIn Header" src="https://github.com/user-attachments/assets/76bcde34-133f-4998-8c04-ac4f0a6a538e"
 </p>
 
 <h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
