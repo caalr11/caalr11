@@ -99,8 +99,8 @@ I am an analytical problem-solver, blending my academic background in Physics wi
   <a href="https://github.com/caalr11/NOMBRE-DEL-REPO-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=caalr11&repo=Sprint_6_Project&theme=dracula" alt="Proyecto 1"/>
   </a>
-  <a href="https://github.com/caalr11/sprint_7_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caalr11&repo=sprint_7_project&theme=dracula" alt="Proyecto 2"/>
+  <a href="https://github.com/caalr11/Sprint_10_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caalr11&repo=Sprint_10_Project&theme=dracula" alt="Proyecto 2"/>
   </a>
 </p>
 
