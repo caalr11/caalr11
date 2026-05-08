@@ -85,13 +85,7 @@ I am an analytical problem-solver, blending my academic background in Physics wi
 - **Detail-Oriented**
 - **Customer Communication & Leadership**
 
-### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caalr11&show_icons=true&locale=es&theme=dracula&count_private=true" alt="Estadísticas de GitHub de caalr11"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caalr11&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por caalr11"/>
-</p>
 
 
 ### 🚀 Proyectos Destacados
