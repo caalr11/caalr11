@@ -87,17 +87,3 @@ I am an analytical problem-solver, blending my academic background in Physics wi
 
 
 
-
-### 🚀 Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/caalr11/Final_Project_Churn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caalr11&repo=Telecom-Churn-Prediction-CatBoost&theme=dracula" alt="Churn Project"/>
-  </a>
-  
-  <a href="https://github.com/caalr11/Sprint_10_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caalr11&repo=Sprint_10_Project&theme=dracula" alt="Proyecto 2"/>
-  </a>
-</p>
-
-
